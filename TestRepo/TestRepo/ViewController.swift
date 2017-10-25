@@ -25,5 +25,7 @@ class ViewController: UIViewController {
      Add one more line - Chang */
     /* SECOND COMMENT BOIII */
     // Another comment by AJ
+    
+    // Comment test by CL
 }
 
