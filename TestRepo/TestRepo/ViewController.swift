@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-/* THIS IS MY TEST COMMENT - SEBASTTIAN */
+/* THIS IS MY TEST COMMENT - SEBASTTIAN
+     Add one more line - Chang */
+    
 }
 
